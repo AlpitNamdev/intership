@@ -1,5 +1,6 @@
 {
   "name": "first",
+  "homepage":"https://AlpitNamdev.github.io/intership",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
